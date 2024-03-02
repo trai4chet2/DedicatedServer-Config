@@ -1,0 +1,68 @@
+<body style="background-color: black; color: white; font-family: Arial;">
+<div>
+    <b>
+        <h2>Server change log:</h2>
+        <ul>
+            <li>Survivor:</li>
+            <ul>
+                <li>Enable crawling while incapped.</li>
+                <li>Enable magnum while incapped with secondary melee weapon.</li>
+                <li>Friendly Fire (percent weapon damage):</li>
+                <ul>
+                    <li>Easy.......| 0.0 -> 0.5</li>
+                    <li>Normal...| 0.1 -> 0.3</li>
+                    <li>Hard.......| 0.3 -> 0.1</li>
+                    <li>Expert....| 0.5 -> 0.0</li>
+                </ul>
+            </ul>
+            <li>Infected:</li>
+            <ul>
+                <li>Charger: HP 600 -> 525</li>
+                <li>Jockey: HP 325 -> 300</li>
+                <li>Smoker: HP 250 -> 200</li>
+                <li>Boomer: HP 50 -> 150</li>
+                <li>Spitter: HP 100 -> 200</li>
+                <li>Hunter: HP 250 -> 275</li>
+                <li>Witch: HP 1000 -> 2000</li>
+            </ul>
+        </ul>
+        <hr>
+
+        <h2>Co-op mode:</h2>
+        <ul>
+            <li>Survivor:</li>
+            <ul>
+                <li>First aid kit use and reviving duration (second): 5 -> 3</li>
+	    	    <li>First aid kit heal full HP</li>
+                <li>Survivor incap health: 300 -> 450</li>
+                <li>Survivor revive health: 30 -> 50</li>
+                <li>Rescueable dead time (second): 60 -> 25</li>
+            </ul>
+            <li>Infected:</li>
+            <ul>
+                <li>Common infected: HP 50 -> 30</li>
+            </ul>
+        </ul>
+        <hr>
+
+	    <h2>Versus mode:</h2>
+        <ul>
+            <li>Survivor:</li>
+            <ul>
+                <li>First aid kit use and reviving duration (second): 5 -> 4</li>
+                <li>Survivor revive health: 30 -> 45</li>
+            </ul>
+            <li>Infected:</li>
+            <ul>
+                <li>Common infected: HP 50 -> 45</li>
+                <li>Smoker:</li>
+                <ul>
+                    <li>Tongue Speed 1000 -> 1500</li>
+                    <li>Tongue Range 750 -> 1500</li>
+                </ul>
+                <li>Tank: HP: 6000 -> 6969</li>
+            </ul>
+        </ul>
+    </b>
+</div>
+</body>
