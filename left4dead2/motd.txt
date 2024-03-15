@@ -45,7 +45,7 @@
         </ul>
         <hr>
 
-	    <h2>Versus mode:</h2>
+	<h2>Versus mode:</h2>
         <ul>
             <li>Survivor:</li>
             <ul>
